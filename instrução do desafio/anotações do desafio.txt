@@ -1,0 +1,20 @@
+Descrição do Desafio
+Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, 
+onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub.
+Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. 
+Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. 
+Criando assim, o primeiro (de muitos) projetos do seu portfólio.
+
+Pré-requisitos:
+
+Conhecimento Básico em Git e GitHub.
+
+Foram acrescentados alguns links de filmes de lançamentos de diversos gêneros:
+
+https://www.youtube.com/watch?v=nplwRlGSHJ0&t=2s&ab_channel=AdrenalinaFreezoneBR
+
+https://www.youtube.com/watch?v=cnyhjuYaINM&ab_channel=Entretenimento
+
+https://www.youtube.com/watch?v=EpQK_y0vW4E&t=3s&ab_channel=CineAnimado
+
+https://www.youtube.com/watch?v=O5Pr9B6V4OE&ab_channel=NOSTALGIAPLAY
